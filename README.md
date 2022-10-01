@@ -15,6 +15,18 @@
 * [Server Requirements](./server/README.md#Requirements)
 * [Client Requirements](./client/README.md#Requirements)
 
+## Softawre Technologies 
+- vuejs
+- Bootstrap
+- Postman
+- MongoDB(Mongoose)
+- CRUD Api
+
+## Programming Languages
+- Javascript
+- HTML 
+- CSS
+
 ## Getting started
 
 ```bash
