@@ -4,26 +4,22 @@ This [Vue.js](https://vuejs.org/) template provides sample code how to connect t
 
 ## Client Structure
 
-| File        | Purpose           | What you do?  |
-| ------------- | ------------- | ----- |
-| [README.md](./README.md) | Everything about the client | **READ ME** carefully! |
-| [public/favicon.ico](public/favicon.ico) | [Favicon](https://en.wikipedia.org/wiki/Favicon) website icon | — |
-| [public/index.html](public/index.html) | Static HTML entry point page | — |
+| File        | Purpose           
+| ------------- | ------------- 
+| [README.md](./README.md) | Everything about the client 
+| [public/favicon.ico](public/favicon.ico) | [Favicon](https://en.wikipedia.org/wiki/Favicon) website icon 
+| [public/index.html](public/index.html) | Static HTML entry point page 
 | `src/` | src (i.e., source code) | All your code goes in here |
-| [src/Api.js](src/Api.js) | Configures HTTP library to communicate with backend | — |
-| [src/App.vue](src/App.vue) | Main Vue layout template for all view (or pages) | Change your global template for all views |
+| [src/Api.js](src/Api.js) | Configures HTTP library to communicate with backend 
+| [src/App.vue](src/App.vue) | Main Vue layout template for all view (or pages) 
 | `src/assets/` | Graphical resources | Add your images, logos, etc |
-| `src/components/` | Vue components that are reusable LEGO blocks | Add your custom components here |
-| [src/main.js](src/main.js) | Main JavaScript entry point | — |
-| [src/router.js](src/router.js) | Vue routes configuration | Register new routes/pages/views |
-| `src/views/` | Vue components that are separate pages/views | Add new routes/pages/views |
-| [src/views/Home.vue](src/views/Home.vue) | Home page/view | Replace with your home page/view |
-| [package.json](package.json) | Project meta-information | —|
-| [vue.config.js](vue.config.js) | Vue configuration | — |
-
-> NOTE: The (mandatory) exercises are essential for understanding this template and will *save* you time!
-
-Optional: Learn how to create such a project template in this [tutorial](https://www.vuemastery.com/courses/real-world-vue-js/vue-cli).
+| `src/components/` | Vue components that are reusable LEGO blocks 
+| [src/main.js](src/main.js) | Main JavaScript entry point 
+| [src/router.js](src/router.js) | Vue routes configuration 
+| `src/views/` | Vue components that are separate pages/views 
+| [src/views/Home.vue](src/views/Home.vue) | Home page/view 
+| [package.json](package.json) | Project meta-information 
+| [vue.config.js](vue.config.js) | Vue configuration 
 
 ## Requirements
 
