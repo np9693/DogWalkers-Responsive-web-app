@@ -79,7 +79,7 @@ The purpose of this Dog Walker website/app is to assist dog owners in finding so
 
 ### Entity-Relationship (ER) Diagram
 
-![ER Diagram](./images/ER diagram-Dogwalkers.jpg)
+![ER Diagram](https://github.com/np9693/DogWalkers-Responsive-web-app/blob/main/images/ER%20diagram-Dogwalkers.png)
 
 ## Teaser (MS3)
 
