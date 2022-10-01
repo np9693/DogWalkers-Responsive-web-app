@@ -83,4 +83,4 @@ The purpose of this Dog Walker website/app is to assist dog owners in finding so
 
 ## Teaser (MS3)
 
-![Teaser](./images/Component 2.jpg)
+![Teaser](https://github.com/np9693/DogWalkers-Responsive-web-app/blob/main/images/Component%202.png)
