@@ -4,20 +4,16 @@ This [ExpressJS](https://expressjs.com/) template provides the basic infrastruct
 
 ## Server Structure
 
-| File        | Purpose           | What you do?  |
-| ------------- | ------------- | ----- |
-| [README.md](./README.md) | Everything about the server | **READ ME** carefully! |
-| [app.js](./app.js) | JavaScript entry point for Express application | Import new routes/controllers |
-| `controllers/` | Implementation of Express endpoints | Define new route handlers |
-| `models/` | [Mongoose](https://mongoosejs.com/) models | Define data schema |
-| [tests/server.postman_collection.json](tests/server.postman_collection.json) | [Postman test scripts](https://learning.postman.com/docs/postman/scripts/test-scripts/) | Replace with your exported Postman test collection |
-| [docs/FAQ.md](docs/FAQ.md) | List of FAQs | Find answers to common questions |
-| [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) | List of problems and solutions | Find solutions for common error messages |
-| [package.json](package.json) | Project meta-information | — |
-
-> NOTE: The (mandatory) exercises are essential for understanding this template and will *save* you time!
-
-Optional: Learn how to create such a project template in this [tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website).
+| File        | Purpose           
+| ------------- | ------------- 
+| [README.md](./README.md) | Everything about the server 
+| [app.js](./app.js) | JavaScript entry point for Express application 
+| `controllers/` | Implementation of Express endpoints 
+| `models/` | [Mongoose](https://mongoosejs.com/) models 
+| [tests/server.postman_collection.json](tests/server.postman_collection.json) | [Postman test scripts](https://learning.postman.com/docs/postman/scripts/test-scripts/) 
+| [docs/FAQ.md](docs/FAQ.md) | List of FAQs 
+| [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) | List of problems and solutions 
+| [package.json](package.json) | Project meta-information 
 
 ## Requirements
 
@@ -56,8 +52,6 @@ Starts a new server on another port (default `3001`) and runs the `server` postm
 ```bash
 npm test
 ```
-
-> The test database is dropped before each test execution. Adjust your tests to support this clean state.
 
 ## Postman Tests
 
